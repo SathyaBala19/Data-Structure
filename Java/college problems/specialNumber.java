@@ -1,4 +1,3 @@
-package Java;
 
 public class specialNumber {
     public static void main(String[] args) {

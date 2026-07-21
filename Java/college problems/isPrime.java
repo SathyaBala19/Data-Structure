@@ -1,5 +1,3 @@
-package Java;
-
 public class isPrime {
     public static void main(String[] args) {
         int n = 50;
