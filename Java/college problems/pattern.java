@@ -10,7 +10,7 @@ public class pattern {
             int k = 0;
             while (k + y < n) {
                 if ((k%y) != 0) {
-                    System.out.print(" ");
+                    System.out.print("  ");
                 } else {
                     System.out.print("* ");
                 }
@@ -22,6 +22,7 @@ public class pattern {
     }
 
     public static void main(String[] args) {
-        
+        int n = 16;
+        patternn(n);
     }
 }
